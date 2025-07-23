@@ -1,5 +1,8 @@
 # Atlas SDK for Go
 
+> [!NOTE]
+> This repostiroy has been archived. Use [ariga.io/atlas/atlasexec](https://github.com/ariga/atlas) instead.
+
 [![Go Reference](https://pkg.go.dev/badge/ariga.io/atlas-go-sdk/atlasexec.svg)](https://pkg.go.dev/ariga.io/atlas-go-sdk/atlasexec)
 
 An SDK for building ariga/atlas providers in Go.
