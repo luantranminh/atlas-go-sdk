@@ -1,12 +1,13 @@
+// Deprecated: use ariga.io/atlas instead.
 module ariga.io/atlas-go-sdk
 
-go 1.22.12
+go 1.24
 
-toolchain go1.24.1
+toolchain go1.24.5
 
 require (
-	ariga.io/atlas v0.32.0
-	github.com/mattn/go-sqlite3 v1.14.17
+	ariga.io/atlas v0.36.2-0.20250806044935-5bb51a0a956e
+	github.com/mattn/go-sqlite3 v1.14.28
 	github.com/stretchr/testify v1.8.4
 )
 
