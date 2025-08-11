@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"ariga.io/atlas-go-sdk/atlasexec"
+	"github.com/luantranminh/atlas-go-sdk/atlasexec"
 
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/stretchr/testify/require"

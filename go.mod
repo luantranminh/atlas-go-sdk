@@ -1,5 +1,5 @@
 // Deprecated: use ariga.io/atlas instead.
-module ariga.io/atlas-go-sdk
+module github.com/luantranminh/atlas-go-sdk
 
 go 1.24
 

@@ -3,14 +3,14 @@
 > [!NOTE]
 > This repostiroy has been archived. Use [ariga.io/atlas/atlasexec](https://github.com/ariga/atlas) instead.
 
-[![Go Reference](https://pkg.go.dev/badge/ariga.io/atlas-go-sdk/atlasexec.svg)](https://pkg.go.dev/ariga.io/atlas-go-sdk/atlasexec)
+[![Go Reference](https://pkg.go.dev/badge/github.com/luantranminh/atlas-go-sdk/atlasexec.svg)](https://pkg.go.dev/github.com/luantranminh/atlas-go-sdk/atlasexec)
 
 An SDK for building ariga/atlas providers in Go.
 
 ## Installation
 
 ```bash
-go get -u ariga.io/atlas-go-sdk
+go get -u github.com/luantranminh/atlas-go-sdk
 ```
 
 ## How to use
@@ -22,7 +22,7 @@ package main
 
 import (
     ...
-    "ariga.io/atlas-go-sdk/atlasexec"
+    "github.com/luantranminh/atlas-go-sdk/atlasexec"
 )
 
 func main() {
@@ -36,4 +36,4 @@ func main() {
 
 ## APIs
 
-For more information, refer to the documentation available at [GoDoc](https://pkg.go.dev/ariga.io/atlas-go-sdk/atlasexec#Client)
+For more information, refer to the documentation available at [GoDoc](https://pkg.go.dev/github.com/luantranminh/atlas-go-sdk/atlasexec#Client)

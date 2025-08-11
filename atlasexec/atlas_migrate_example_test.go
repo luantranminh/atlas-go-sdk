@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"ariga.io/atlas-go-sdk/atlasexec"
+	"github.com/luantranminh/atlas-go-sdk/atlasexec"
 )
 
 func ExampleClient_MigrateApply() {

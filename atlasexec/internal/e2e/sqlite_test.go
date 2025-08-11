@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"ariga.io/atlas-go-sdk/atlasexec"
+	"github.com/luantranminh/atlas-go-sdk/atlasexec"
 	"github.com/stretchr/testify/require"
 
 	_ "github.com/mattn/go-sqlite3"

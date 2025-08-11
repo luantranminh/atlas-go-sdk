@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"ariga.io/atlas-go-sdk/atlasexec"
+	"github.com/luantranminh/atlas-go-sdk/atlasexec"
 	"github.com/stretchr/testify/require"
 )
 
